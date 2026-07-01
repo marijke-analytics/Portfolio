@@ -1,5 +1,3 @@
-# Portfolio
-
 # 📊 Data Analytics & Data Science Portfolio  
 **Marijke Haupt**  
 Zertifizierte Big Data Analystin | Data & Analytics Consultant
@@ -29,7 +27,7 @@ Ich lege Wert auf:
 - SQL  
 - Git & GitHub  
 - Jupyter Notebooks  
-- Power BI & Tableau  
+- Power BI  
 
 ### **Data Science & Analytics**
 - Explorative Datenanalyse (EDA)  
@@ -47,8 +45,12 @@ Ich lege Wert auf:
 - NoSQL‑Datenbanken  
 
 ### **Berufserfahrung**
-- **Commerzbank AG – Big Data & Advanced Analytics Consultant**  
-  Analyse, Reporting, Datenpipelines, Machine‑Learning‑Prototypen
+- **Commerzbank AG – Data & Analytics Consultant**  
+  Big Data Analyse, Reporting, Datenpipelines, Machine‑Learning‑Prototypen  
+- **VG Bild-Kunst – Data Analyst / Prozessoptimierung**  
+  Datenqualität, Datenverarbeitung, Prozessanalyse
+- **Privatlehrerin für Mathematik**  
+  Vermittlung analytischer Methoden, Statistik, Coaching
 
 ### **Wissenschaftliches Arbeiten**
 - Strukturierte Ausarbeitungen  
@@ -119,8 +121,27 @@ Konzeption eines empirischen Projekts zur Usability‑Verbesserung:
 
 ---
 
+### **🔹 Projekt 7: Verlagerungsmodell – Analyse & Optimierung von Geschäftsprozessen**  
+Datenprojekt zur Bewertung und Optimierung eines Verlagerungsmodells:  
+- Analyse von Prozessdaten  
+- Identifikation ineffizienter Prozessschritte  
+- Entwicklung eines Bewertungsmodells für Verlagerungsszenarien  
+- KPI‑Definition (Kosten, Durchlaufzeiten, Fehlerquoten)  
+- Visualisierung der Ergebnisse  
+- Ableitung von Handlungsempfehlungen für Management & Operations
+
+➡️ *Schwerpunkte:* Prozessanalyse, KPI‑Modellierung, Workflow‑Optimierung, Reporting
+
+---
+
 ## 🎓 Zertifikate  
 - **Big Data Analyst (AKAD University)**  
+- **Python für Data Science**  
+- **R für Data Analytics**  
+- **SQL & Datenbanken**  
+- **Machine Learning Grundlagen**  
+- **Statistik & Wahrscheinlichkeitsrechnung**  
+- **Mathematische Grundlagen für Data Science**  
 - Weitere Zertifikate folgen
 
 ---
