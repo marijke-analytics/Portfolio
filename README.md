@@ -8,7 +8,7 @@ Zertifizierte Big Data Analystin | Data & Analytics Consultant
 
 ## 👩‍💻 Über mich  
 Ich bin Data & Analytics Consultant mit Schwerpunkt auf datengetriebenen Entscheidungsprozessen, Machine Learning und der Entwicklung analytischer Lösungen.  
-Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced Analytics gearbeitet, verfüge über ein **Big Data Analyst Zertifikat** und bilde mich mit eines Masterstudium **Data Science" weiter.
+Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced Analytics gearbeitet, verfüge über ein **Big Data Analyst Zertifikat** und bilde mich mit eines Masterstudium **Data Science** weiter.
 
 Mein Portfolio umfasst Projekte aus Statistik, Predictive Analytics, Clustering, Klassifikation, Datenvisualisierung und wissenschaftlicher Analyse.
 
