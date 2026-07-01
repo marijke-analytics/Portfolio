@@ -99,7 +99,11 @@ Enthält:
 - Feature-Selektion  
 - Logistische Regression, KNN, Random Forest  
 - Confusion-Matrizen & Modellvergleich  
-- Heatmaps, Boxplots, Histogramme  
+- Heatmaps, Boxplots, Histogramme
+
+<a href="https://github.com/marijke-analytics/house-price-classification">
+  <img src="https://img.shields.io/badge/Open-Repository-8ecae6?style=flat">
+</a>
 
 ---
 
@@ -110,6 +114,10 @@ Analyse globaler COVID‑19 Trends:
 - Visualisierung von Infektionswellen  
 - Geografische Bubble‑Map der Top‑30 Länder  
 
+<a href="https://github.com/marijke-analytics/covid19-timeseries">
+  <img src="https://img.shields.io/badge/Open-Repository-a8dadc?style=flat">
+</a>
+
 ---
 
 ### **🔹 Projekt 3: World Bank Clustering (Python, Machine Learning)**  
@@ -118,7 +126,11 @@ Eigenes Datenprojekt mit World Bank API:
 - Indikatorauswahl nach EU‑Framework  
 - PCA, K‑Means, Agglomerative Clustering, DBSCAN, GMM  
 - Heatmaps, Pairplots, Scree‑Plot  
-- Interpretation globaler Entwicklungsprofile  
+- Interpretation globaler Entwicklungsprofile
+
+<a href="https://github.com/marijke-analytics/worldbank-clustering">
+  <img src="https://img.shields.io/badge/Open-Repository-bde0fe?style=flat">
+</a>
 
 ---
 
@@ -130,6 +142,10 @@ Wissenschaftliche Ausarbeitung zur Fast Fourier Transformation:
 - Single‑Sided Amplitude Spectrum  
 - MATLAB‑Implementierung  
 
+<a href="https://github.com/marijke-analytics/fft-signal-analysis">
+  <img src="https://img.shields.io/badge/Open-Repository-cde5d7?style=flat">
+</a>
+
 ---
 
 ### **🔹 Projekt 5: Neuroleadership & Change‑Management (Wissenschaftliche Arbeit)**  
@@ -140,6 +156,10 @@ Analyse des Neuroleadership‑Ansatzes:
 - Führungs- und Handlungsoptionen  
 - Operationalisierung für Organisationen  
 
+<a href="https://github.com/marijke-analytics/neuroleadership-study">
+  <img src="https://img.shields.io/badge/Open-Repository-d9d9d9?style=flat">
+</a>
+
 ---
 
 ### **🔹 Projekt 6: Usability‑Studie & empirisches Forschungsdesign (Wissenschaftliche Arbeit)**  
@@ -148,6 +168,10 @@ Konzeption eines empirischen Projekts zur Usability‑Verbesserung:
 - Testplanung  
 - Datenerhebung  
 - Simulationsphase vor Markteinführung  
+
+<a href="https://github.com/marijke-analytics/usability-study">
+  <img src="https://img.shields.io/badge/Open-Repository-8ecae6?style=flat">
+</a>
 
 ---
 
@@ -165,7 +189,11 @@ Aktueller Fokus:
 - Dateninventur und Quellenbewertung  
 - Aufbau der Datenpipelines (Python, GeoPandas)  
 - Dokumentation der Methodik im Ordner `docs/`  
-- Dashboard-Design und KPI-Definition im Ordner `dashboard/` 
+- Dashboard-Design und KPI-Definition im Ordner `dashboard/`
+
+<a href="https://github.com/marijke-analytics/verlagerungsmodell-gueterverkehr">
+  <img src="https://img.shields.io/badge/Open-Repository-a8dadc?style=flat">
+</a>
 
 ---
 
