@@ -1,15 +1,18 @@
 # Portfolio
+
 # 📊 Data Analytics & Data Science Portfolio  
 **Marijke Haupt**  
-Zertifizierte Big Data Analystin | Angehende Data Scientist
+Zertifizierte Big Data Analystin | Data & Analytics Consultant
 
 ---
 
 ## 👩‍💻 Über mich  
-Ich bin Data Analystin und angehende Data Scientist mit Schwerpunkt auf datengetriebenen Entscheidungsprozessen, Machine Learning und der Entwicklung analytischer Lösungen.  
+Ich bin Data & Analytics Consultant mit Schwerpunkt auf datengetriebenen Entscheidungsprozessen, Machine Learning und der Entwicklung analytischer Lösungen.  
+Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced Analytics gearbeitet, verfüge über ein **Big Data Analyst Zertifikat** und bilde mich mit eines Masterstudium **Data Science" weiter.
+
 Mein Portfolio umfasst Projekte aus Statistik, Predictive Analytics, Clustering, Klassifikation, Datenvisualisierung und wissenschaftlicher Analyse.
 
-Ich lege großen Wert auf:
+Ich lege Wert auf:
 - saubere Datenaufbereitung  
 - transparente Dokumentation  
 - reproduzierbare Analysen  
@@ -37,6 +40,16 @@ Ich lege großen Wert auf:
 - Datenbereinigung & Transformation  
 - Modellbewertung (Accuracy, Confusion Matrix, ROC/AUC)  
 
+### **Big Data & Architektur**
+- Big Data Pipelines  
+- Hadoop  
+- Spark  
+- NoSQL‑Datenbanken  
+
+### **Berufserfahrung**
+- **Commerzbank AG – Big Data & Advanced Analytics Consultant**  
+  Analyse, Reporting, Datenpipelines, Machine‑Learning‑Prototypen
+
 ### **Wissenschaftliches Arbeiten**
 - Strukturierte Ausarbeitungen  
 - Literaturrecherche  
@@ -56,9 +69,6 @@ Enthält:
 - Confusion-Matrizen & Modellvergleich  
 - Heatmaps, Boxplots, Histogramme  
 
-➡️ *Technologien:* Python, Scikit-Learn, Seaborn  
-➡️ *Schwerpunkte:* Klassifikation, Modellbewertung, Feature Engineering
-
 ---
 
 ### **🔹 Projekt 2: COVID‑19 Zeitreihen & Weltkarte (Python, Cartopy)**  
@@ -67,9 +77,6 @@ Analyse globaler COVID‑19 Trends:
 - 7‑Tage‑Mittelwerte  
 - Visualisierung von Infektionswellen  
 - Geografische Bubble‑Map der Top‑30 Länder  
-
-➡️ *Technologien:* Python, Pandas, Matplotlib, Cartopy  
-➡️ *Schwerpunkte:* Zeitreihenanalyse, Datenvisualisierung, Mapping
 
 ---
 
@@ -81,9 +88,6 @@ Eigenes Datenprojekt mit World Bank API:
 - Heatmaps, Pairplots, Scree‑Plot  
 - Interpretation globaler Entwicklungsprofile  
 
-➡️ *Technologien:* Python, wbgapi, Scikit-Learn  
-➡️ *Schwerpunkte:* Clustering, PCA, API‑Daten, Explorative Analyse
-
 ---
 
 ### **🔹 Projekt 4: FFT & Signalverarbeitung (MATLAB)**  
@@ -94,19 +98,15 @@ Wissenschaftliche Ausarbeitung zur Fast Fourier Transformation:
 - Single‑Sided Amplitude Spectrum  
 - MATLAB‑Implementierung  
 
-➡️ *Schwerpunkte:* Signalverarbeitung, Frequenzanalyse, wissenschaftliche Dokumentation
-
 ---
 
 ### **🔹 Projekt 5: Neuroleadership & Change‑Management (Wissenschaftliche Arbeit)**  
 Analyse des Neuroleadership‑Ansatzes:  
-- Grundlagen & Modelle  
+- Change‑Management Grundlagen  
 - SCARF‑Modell  
-- Chancen & Risiken für Change‑Management  
+- Chancen & Risiken  
 - Führungs- und Handlungsoptionen  
 - Operationalisierung für Organisationen  
-
-➡️ *Schwerpunkte:* Organisationspsychologie, Leadership, wissenschaftliche Analyse
 
 ---
 
@@ -117,13 +117,10 @@ Konzeption eines empirischen Projekts zur Usability‑Verbesserung:
 - Datenerhebung  
 - Simulationsphase vor Markteinführung  
 
-➡️ *Schwerpunkte:* Empirie, UX‑Forschung, Studiendesign
-
 ---
 
 ## 🎓 Zertifikate  
-- Big Data Analyst (AKAD University)  
-- Data Science Module (Python, R, ML)  
+- **Big Data Analyst (AKAD University)**  
 - Weitere Zertifikate folgen
 
 ---
@@ -131,7 +128,6 @@ Konzeption eines empirischen Projekts zur Usability‑Verbesserung:
 ## 📬 Kontakt  
 **E-Mail:** marijke.haupt@gmx.de  
 **GitHub:** https://github.com/marijke-analytics  
-**LinkedIn:** *optional einfügen*  
+**LinkedIn:** *xxx*  
 
 ---
-
