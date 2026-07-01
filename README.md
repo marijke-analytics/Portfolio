@@ -151,7 +151,6 @@ Aktueller Fokus:
 
 ## 📬 Kontakt  
 **E-Mail:** marijke.haupt@gmx.de  
-**GitHub:** https://github.com/marijke-analytics  
-**LinkedIn:** *xxx*  
+**GitHub:** https://github.com/marijke-analytics   
 
 ---
