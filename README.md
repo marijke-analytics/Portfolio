@@ -4,6 +4,38 @@ Zertifizierte Big Data Analystin | Data & Analytics Consultant
 
 ---
 
+## 🏷️ Badges
+
+### **Programmiersprachen**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?logo=mathworks&logoColor=white)
+
+### **Data Science & Machine Learning**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+
+### **Big Data & Architektur**
+![Big Data](https://img.shields.io/badge/Big%20Data-000000?logo=apache&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005C84?logo=mongodb&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+### **Beruf & Zertifikate**
+![Data & Analytics Consultant](https://img.shields.io/badge/Data%20%26%20Analytics%20Consultant-0A66C2?logo=briefcase&logoColor=white)
+![Big Data Analyst](https://img.shields.io/badge/Big%20Data%20Analyst-0057B8?logo=graduation-cap&logoColor=white)
+![Commerzbank](https://img.shields.io/badge/Commerzbank-FFCC00?logo=bank&logoColor=black)
+---
+
 ## 👩‍💻 Über mich  
 Ich bin Data & Analytics Consultant mit Schwerpunkt auf datengetriebenen Entscheidungsprozessen, Machine Learning und der Entwicklung analytischer Lösungen.  
 Ich habe als **Consultant bei der Commerzbank** im Bereich Big Data & Advanced Analytics gearbeitet, verfüge über ein **Big Data Analyst Zertifikat** und bilde mich mit eines Masterstudium **Data Science** weiter.
