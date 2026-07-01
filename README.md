@@ -119,16 +119,21 @@ Konzeption eines empirischen Projekts zur Usability‑Verbesserung:
 
 ---
 
-### **🔹 Projekt 7: Verlagerungsmodell – Analyse & Optimierung von Geschäftsprozessen**  
-Datenprojekt zur Bewertung und Optimierung eines Verlagerungsmodells:  
-- Analyse von Prozessdaten  
-- Identifikation ineffizienter Prozessschritte  
-- Entwicklung eines Bewertungsmodells für Verlagerungsszenarien  
-- KPI‑Definition (Kosten, Durchlaufzeiten, Fehlerquoten)  
-- Visualisierung der Ergebnisse  
-- Ableitung von Handlungsempfehlungen für Management & Operations
+### 🔹 Projekt 7: Verlagerungsmodell Güterverkehr (Open-Data-Projekt, Python & Power BI)  
+Open-Data-Projekt zur Analyse von Verkehrsverlagerungen im multimodalen Güterverkehr (Straße/Schiene/Wasserstraße).  
+Enthält:  
+- Aufbau eines Simulations- und Analysemodells auf Basis ausschließlich offener Daten  
+- Nutzung heterogener Open-Data-Quellen (BASt-Verkehrsmengendaten, Pegel Online API, DWD-Wetterdaten, OpenStreetMap/OpenRailwayMap)  
+- Netzwerkmodellierung für Straßen- und Wasserstraßennetze  
+- Untersuchung von Verlagerungspotenzialen zwischen Verkehrsträgern  
+- Szenarioanalyse und KPI-Definition (z. B. Kapazität, Verfügbarkeit, Einschränkungen)  
+- Entwicklung eines interaktiven Dashboards (Power BI) zur Visualisierung von Verkehrsströmen und Verlagerungsszenarien  
 
-➡️ *Schwerpunkte:* Prozessanalyse, KPI‑Modellierung, Workflow‑Optimierung, Reporting
+Aktueller Fokus:
+- Dateninventur und Quellenbewertung  
+- Aufbau der Datenpipelines (Python, GeoPandas)  
+- Dokumentation der Methodik im Ordner `docs/`  
+- Dashboard-Design und KPI-Definition im Ordner `dashboard/` 
 
 ---
 
