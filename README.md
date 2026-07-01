@@ -40,8 +40,6 @@ Ich lege Wert auf:
 
 ### **Big Data & Architektur**
 - Big Data Pipelines  
-- Hadoop  
-- Spark  
 - NoSQL‑Datenbanken  
 
 ### **Berufserfahrung**
