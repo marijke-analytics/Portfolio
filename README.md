@@ -1,130 +1,137 @@
 # Portfolio
 # 📊 Data Analytics & Data Science Portfolio  
-Ein Portfolio mit datengetriebenen Projekten, Machine‑Learning‑Modellen, Dashboards und wissenschaftlichen Arbeiten.
+**Marijke Haupt**  
+Zertifizierte Big Data Analystin | Angehende Data Scientist
 
 ---
 
-# 👩‍💻 Marijke Haupt  
-**Zertifizierte Big Data Analystin | Angehende Data Scientist**
+## 👩‍💻 Über mich  
+Ich bin Data Analystin und angehende Data Scientist mit Schwerpunkt auf datengetriebenen Entscheidungsprozessen, Machine Learning und der Entwicklung analytischer Lösungen.  
+Mein Portfolio umfasst Projekte aus Statistik, Predictive Analytics, Clustering, Klassifikation, Datenvisualisierung und wissenschaftlicher Analyse.
 
----
-
-## 🧠 Über mich  
-Ich bin Data Scientist in Ausbildung mit starkem Fokus auf analytische Modellierung, datengetriebene Entscheidungsprozesse und die Entwicklung reproduzierbarer Projekte.  
-Mein Portfolio umfasst Machine‑Learning‑Modelle, statistische Analysen, Datenpipelines sowie wissenschaftliche Arbeiten aus meinem Masterstudium *Data Science*.
-
-Ich lege Wert auf:
-- saubere Methodik  
+Ich lege großen Wert auf:
+- saubere Datenaufbereitung  
 - transparente Dokumentation  
-- reproduzierbare Workflows  
-- klare Visualisierungen  
+- reproduzierbare Analysen  
 - wissenschaftliche Fundierung  
+- klare Visualisierungen und Storytelling  
 
 ---
 
-## 🛠️ Kompetenzen  
+## 🧠 Kompetenzen  
 
 ### **Programmiersprachen & Tools**
-- Python (Pandas, NumPy, Scikit‑Learn, Seaborn, Matplotlib)  
-- R (tidyverse, caret, ggplot2)  
+- Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib)  
+- R (tidyverse, ggplot2, caret)  
 - SQL  
 - Git & GitHub  
 - Jupyter Notebooks  
-- Anaconda  
+- Power BI & Tableau  
 
-### **Data Science & Machine Learning**
+### **Data Science & Analytics**
 - Explorative Datenanalyse (EDA)  
 - Feature Engineering  
-- Klassifikation & Regression  
-- Clustering (K‑Means, DBSCAN, GMM, Agglomerative)  
-- PCA & Dimensionality Reduction  
-- Modellbewertung (Accuracy, AUC, Confusion Matrix)  
-
-### **Big Data & Analytics**
-- Datenbereinigung  
-- Datenpipelines  
-- API‑Abrufe (World Bank API)  
-- Visual Analytics  
+- Klassifikation (LogReg, KNN, Random Forest, GMM, DBSCAN)  
+- Clustering & PCA  
+- Zeitreihenanalyse  
+- Datenbereinigung & Transformation  
+- Modellbewertung (Accuracy, Confusion Matrix, ROC/AUC)  
 
 ### **Wissenschaftliches Arbeiten**
 - Strukturierte Ausarbeitungen  
-- Literaturarbeit  
+- Literaturrecherche  
 - Methodische Modellkritik  
-- Change‑Management & Neuroleadership  
-- Usability‑Forschung & empirische Designs  
+- Empirische Forschungsdesigns  
 
 ---
 
 ## 📁 Projekte
 
-### **Projekt 1: Ländercluster auf Basis sozioökonomischer Indikatoren (World Bank API)**  
-**Modul ROB60 – Maschinelles Lernen**  
-- Vollständiger CRISP‑DM‑Workflow  
-- Datenabruf über World Bank API  
-- Datenbereinigung, Standardisierung, PCA  
-- Clustering: K‑Means, Agglomerative, DBSCAN, GMM  
-- Visualisierungen: Pairplots, Heatmaps, PCA‑Scatterplots  
-- Ergebnis: Identifikation globaler Entwicklungsprofile
+### **🔹 Projekt 1: Immobilienpreis-Vorhersage (Python, Machine Learning)**  
+Klassifikationsprojekt zur Vorhersage, ob ein Hauspreis über oder unter dem Median liegt.  
+Enthält:  
+- vollständige EDA  
+- Feature-Selektion  
+- Logistische Regression, KNN, Random Forest  
+- Confusion-Matrizen & Modellvergleich  
+- Heatmaps, Boxplots, Histogramme  
+
+➡️ *Technologien:* Python, Scikit-Learn, Seaborn  
+➡️ *Schwerpunkte:* Klassifikation, Modellbewertung, Feature Engineering
 
 ---
 
-### **Projekt 2: Kreditrisikomodellierung (LendingClub‑Daten)**  
-**Modul WEB78 – Programmtechniken in Data Science (R)**  
-- Datenbereinigung von 111 Variablen → 18 modellrelevante Features  
-- Ausreißeranalyse & Winsorisierung  
-- EDA: Boxplots, Korrelationsmatrix, Feature‑Screening  
-- Modelle: Logistische Regression, Random Forest, KNN  
-- Bewertung: Confusion Matrix, ROC, AUC  
-- Ergebnis: belastbares Klassifikationsmodell für Kreditstatus
+### **🔹 Projekt 2: COVID‑19 Zeitreihen & Weltkarte (Python, Cartopy)**  
+Analyse globaler COVID‑19 Trends:  
+- Berechnung täglicher Fallzahlen  
+- 7‑Tage‑Mittelwerte  
+- Visualisierung von Infektionswellen  
+- Geografische Bubble‑Map der Top‑30 Länder  
+
+➡️ *Technologien:* Python, Pandas, Matplotlib, Cartopy  
+➡️ *Schwerpunkte:* Zeitreihenanalyse, Datenvisualisierung, Mapping
 
 ---
 
-### **Projekt 3: Immobilienpreis‑Vorhersage (Ames Housing)**  
-**Modul WEB78 – Python**  
-- Klassifikation: AboveMedianPrice  
-- EDA: Boxplots, Histogramme, Heatmap  
-- Modelle: Logistische Regression, KNN, Random Forest  
-- Feature‑Importance‑Analyse  
-- Ergebnis: robuste Vorhersage der Preisgruppe
+### **🔹 Projekt 3: World Bank Clustering (Python, Machine Learning)**  
+Eigenes Datenprojekt mit World Bank API:  
+- Datenextraktion über wbgapi  
+- Indikatorauswahl nach EU‑Framework  
+- PCA, K‑Means, Agglomerative Clustering, DBSCAN, GMM  
+- Heatmaps, Pairplots, Scree‑Plot  
+- Interpretation globaler Entwicklungsprofile  
+
+➡️ *Technologien:* Python, wbgapi, Scikit-Learn  
+➡️ *Schwerpunkte:* Clustering, PCA, API‑Daten, Explorative Analyse
 
 ---
 
-### **Projekt 4: COVID‑19 Zeitreihen & Geodatenanalyse**  
-**Modul WEB78 – Python**  
-- Zeitreihenanalyse mit 7‑Tage‑Mittelwerten  
-- Vergleich von Infektionswellen in 6 Ländern  
-- Geovisualisierung (Cartopy) der Top‑30‑Infektionsländer  
-- Ergebnis: klare Darstellung globaler Pandemie‑Dynamiken
+### **🔹 Projekt 4: FFT & Signalverarbeitung (MATLAB)**  
+Wissenschaftliche Ausarbeitung zur Fast Fourier Transformation:  
+- Harmonische Signale  
+- DFT & FFT  
+- Nyquist‑Theorem  
+- Single‑Sided Amplitude Spectrum  
+- MATLAB‑Implementierung  
+
+➡️ *Schwerpunkte:* Signalverarbeitung, Frequenzanalyse, wissenschaftliche Dokumentation
 
 ---
 
-### **Projekt 5: Neuroleadership & Change‑Management (wissenschaftliche Arbeit)**  
-**Modul UFM89**  
-- Analyse des Neuroleadership‑Ansatzes  
+### **🔹 Projekt 5: Neuroleadership & Change‑Management (Wissenschaftliche Arbeit)**  
+Analyse des Neuroleadership‑Ansatzes:  
+- Grundlagen & Modelle  
+- SCARF‑Modell  
 - Chancen & Risiken für Change‑Management  
-- SCARF‑Modell als Führungsinstrument  
-- Operationalisierung für Organisationen
+- Führungs- und Handlungsoptionen  
+- Operationalisierung für Organisationen  
+
+➡️ *Schwerpunkte:* Organisationspsychologie, Leadership, wissenschaftliche Analyse
 
 ---
 
-### **Projekt 6: Usability‑Forschung & Simulationsphase vor Markteinführung**  
-**Modul SQF61**  
-- Empirisches Forschungsdesign  
-- Test‑User‑Simulation  
-- Usability‑Messung & Optimierung  
-- Ergebnis: strukturierter Ansatz zur Usability‑Verbesserung vor Launch
+### **🔹 Projekt 6: Usability‑Studie & empirisches Forschungsdesign (Wissenschaftliche Arbeit)**  
+Konzeption eines empirischen Projekts zur Usability‑Verbesserung:  
+- Forschungsdesign  
+- Testplanung  
+- Datenerhebung  
+- Simulationsphase vor Markteinführung  
+
+➡️ *Schwerpunkte:* Empirie, UX‑Forschung, Studiendesign
 
 ---
 
 ## 🎓 Zertifikate  
-- Big Data Analyst (AKAD)  
-- Diverse Modulzertifikate aus dem Masterstudium Data Science  
+- Big Data Analyst (AKAD University)  
+- Data Science Module (Python, R, ML)  
+- Weitere Zertifikate folgen
 
 ---
 
 ## 📬 Kontakt  
-**E‑Mail:** marijke.haupt@gmx.de  
+**E-Mail:** marijke.haupt@gmx.de  
 **GitHub:** https://github.com/marijke-analytics  
-**Ort:** Köln, Deutschland  
+**LinkedIn:** *optional einfügen*  
 
 ---
+
